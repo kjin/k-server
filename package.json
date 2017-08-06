@@ -2,7 +2,7 @@
   "name": "k-server",
   "version": "0.1.0",
   "bin": {
-    "k-server": "./bin/k-server"
+    "k-server": "./lib/index.js"
   },
   "author": "github:kjin",
   "license": "See LICENSE",
